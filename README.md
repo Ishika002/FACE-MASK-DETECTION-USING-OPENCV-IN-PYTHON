@@ -1,4 +1,4 @@
-# FACE-MASK-DETECTION-USING-OPENCV-IN-PYTHON
+# FACE-MASK-DETECTION-USING-OPENCV
 
 Machine Learning &amp; Python Project # type: ignore
 import cv2 # type: ignore
